@@ -1,0 +1,9 @@
+# Makefile artifacts
+Makefile~
+*.o
+*.d
+
+# Compiler temporary files
+*.tmp
+*.ilk
+*.pdb
